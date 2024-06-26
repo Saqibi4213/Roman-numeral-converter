@@ -1,5 +1,5 @@
 :root {
-  --gray-00: #fff;
+  --gray-00: #5a4d4d;
   --gray-05: #f5f6f7;
   --gray-15: #d0d0d5;
   --gray-75: #8fbc8f;
@@ -38,7 +38,7 @@ h1 {
   max-width: 350px;
   font-family: 'Castoro Titling', cursive;
 }
- 
+
 form {
   color: var(--gray-05);
   margin: auto 25px;
@@ -97,7 +97,7 @@ button:focus-visible {
 }
 
 .output {
-  color: #000;
+  color: #161111;
   background-color: var(--gray-75);
   border: 3px solid var(--gray-05);
   border-radius: 10px;
@@ -174,6 +174,6 @@ button:focus-visible {
   }
 
   .alert {
-  font-size: 1.25rem;
+    font-size: 1.25rem;
   }
 }

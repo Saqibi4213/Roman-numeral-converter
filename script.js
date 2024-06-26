@@ -18,13 +18,13 @@ const convertToRoman = (num) => {
     ['I', 1],
   ];
   const res = [];
-  function convertToRoman(arr) {
-    while (num >= arr[1]) {
-      res.push(arr[0]);
-      num -= arr[1];
+  ref.forEach(([roman, value]) => {
+    while (num >= value) {
+      res.push(roman);
+      num -= value;
     }
-  }
-  return res.join('');
+  });
+  return res.join("");
 };
 const isValid = (str, int) => {
   let errText = '';
