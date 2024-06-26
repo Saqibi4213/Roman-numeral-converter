@@ -49,9 +49,9 @@ Provide your name and a link to your Social Media profiles. You can also include
 
 - Website: [your-website.com](https://your-website.com)
 <br>
-- LinkedIn: [Mheria saqibi] (https://www.linkedin.com/in/mheria-saqibi-a386a41a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Mheria saqibi] [https://www.linkedin.com/in/mheria-saqibi-a386a41a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 <br>
-- Email: [example](mosawermh@gmail.com)
+- Email: [mosawermh@gmail.com]
 
 ## Contributing 🤝
 
