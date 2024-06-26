@@ -122,3 +122,56 @@ button {
 .hidden {
   display: none;
 }
+
+@media (max-width: 768px) {
+  body {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+    max-width: 100%;
+  }
+
+  form {
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  input, button {
+    font-size: 1.75rem;
+    height: 50px;
+  }
+
+  .output {
+    font-size: 1.75rem;
+    padding: 10px;
+  }
+
+  .alert {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  input, button {
+    font-size: 1.5rem;
+    height: 45px;
+  }
+
+  .output {
+    font-size: 1.5rem;
+  }
+
+  .alert {
+    font-size: 1.25rem;
+  }
+}
